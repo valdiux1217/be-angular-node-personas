@@ -1,8 +1,8 @@
 const database = {
     host: 'localhost',
     user: 'root',
-    password: 'admin123',
-    database: 'supermercado'
+    password: '',
+    database: 'pedidos'
 }
 
 export default database;
